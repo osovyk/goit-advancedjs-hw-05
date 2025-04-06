@@ -1,0 +1,23 @@
+# Відкидаємо залежності
+node_modules/
+
+# Збірка (output) TypeScript
+dist/
+
+# Файли кешу TypeScript
+*.tsbuildinfo
+
+# Лог-файли
+*.log
+
+# Файли середовища
+.env
+.env.local
+.env.*.local
+
+# Системні файли
+.DS_Store
+
+# Налаштування редакторів
+.vscode/
+.idea/
